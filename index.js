@@ -8,4 +8,4 @@ const myName = ()=>{
 
 const itMe = "Riya"
 
-const c = "Priya"
+const c = "RIYA"

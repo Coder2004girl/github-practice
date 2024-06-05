@@ -9,3 +9,7 @@ const myName = ()=>{
 const itMe = "Riya"
 
 const c = "RIYA"
+
+function newFeatureAdd(){
+    console.log('new feature add')
+}
